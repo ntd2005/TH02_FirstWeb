@@ -13,5 +13,6 @@ Route mặc định trong `Program.cs`: `{controller=Home}/{action=Index}/{id?}`
 
 ## Nộp bài
 
-Nguyễn Tiến Dũng · 2300285 
+Nguyễn Tiến Dũng · 2300285. 
+
 GitHub: [ntd2005](https://github.com/ntd2005)
