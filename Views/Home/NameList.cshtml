@@ -1,0 +1,14 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "Danh sách thành viên";
+}
+<h2>@ViewData["Title"]</h2>
+@if (Model != null && Model.Any())
+{
+    <ul>
+        @foreach (var ten in Model)
+        {
+            <li>@ten</li>
+        }
+    </ul>
+}

@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build
+bin/
+obj/
+out/
+publish/
+
+# ASP.NET Core
+appsettings.Development.json
+*.db
+*.sqlite
+
+# NuGet packages (auto-restore on build)
+packages/
+*.nupkg
+
+# OS / Office junk
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+~WRL*.tmp
+*.log
+
+# Heavy files not for git
+*.zip
+*.rar
+*.mp3
+*.mp4
+*.jpg
+*.png
+*.gif
+
+# Secrets / Env
+.env
+appsettings.Secrets.json
+appsettings.Local.json
