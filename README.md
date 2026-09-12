@@ -1,6 +1,6 @@
 # TH02_FirstWeb
 
-Repo của **Hoàng Chiều Nguyễn Tuấn**, MSSV **2300536** ([`hoangtuan2k5`](https://github.com/hoangtuan2k5)).
+Repo của **Nguyễn Tiến Dũng**, MSSV **2300285**.
 
 ## Action
 
@@ -13,5 +13,5 @@ Route mặc định trong `Program.cs`: `{controller=Home}/{action=Index}/{id?}`
 
 ## Nộp bài
 
-Hoàng Chiều Nguyễn Tuấn · 2300536  
-GitHub: [hoangtuan2k5](https://github.com/hoangtuan2k5) 5
+Nguyễn Tiến Dũng · 2300285 
+GitHub: [ntd2005](https://github.com/ntd2005)
